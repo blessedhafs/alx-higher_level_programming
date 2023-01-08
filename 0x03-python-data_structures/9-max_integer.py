@@ -6,6 +6,4 @@ def max_integer(my_list=[]):
     for int in my_list:
         if int > big:
             big = int
-    return big
-Footer
-© 2023 GitHub, Inc.
+    return 
